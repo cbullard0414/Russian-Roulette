@@ -1,2 +1,2 @@
 # Russian-Roulette
-DO NOT RUN PLEASE FOR THE LOVE OF GOD
+Please do not run this file. it was just made for laughs
